@@ -27,7 +27,7 @@
 ## Установка
 
 ### Для конечных пользователей:
-1. Скачайте последнюю версию из [Releases](../../releases)
+1. Скачайте последнюю версию из [Releases](https://github.com/Ilvira-GIS/Arabic/releases/tag/v0.0.5)
 2. Распакуйте архив
 3. Запустите `arabpython_v5.exe`
 
